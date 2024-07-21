@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ringeryci.github.io/sitemap
+Sitemap: https://ringeryci.github.io/app/sitemap
+Sitemap: https://ringeryci.github.io/assets/sitemap
+Sitemap: https://ringeryci.github.io/css/sitemap
+Sitemap: https://ringeryci.github.io/includes/sitemap
+Sitemap: https://ringeryci.github.io/item/sitemap
+Sitemap: https://ringeryci.github.io/src/sitemap
